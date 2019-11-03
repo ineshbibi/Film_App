@@ -1,0 +1,38 @@
+.no_image {
+  margin-left: -27px;
+  width: 237px !important;
+  height: 297px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+.image {
+  height: 297px;
+}
+/****************** Overides **********************/
+
+.MuiCardContent-root {
+  height: 50px;
+  background-color: #ce4153;
+  width: 210px;
+}
+
+.name_card_h2 {
+  font-size: 14px !important;
+  color: white;
+  margin-left: -2px;
+  letter-spacing: 0.1em;
+}
+
+.MuiCard-root {
+  margin-bottom: 30px;
+}
+
+.name_card {
+  margin-top: -8px !important;
+}

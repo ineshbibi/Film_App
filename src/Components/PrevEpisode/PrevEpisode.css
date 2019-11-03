@@ -1,0 +1,33 @@
+.prev_ep_title {
+  width: 495px;
+  height: 39px;
+  background-color: #ce4153;
+  display: flex;
+  align-items: center;
+}
+
+.prev_ep_Span {
+  color: white;
+  letter-spacing: 0.1em;
+  margin-left: 15px;
+}
+
+.prev_ep_info {
+  margin-top: 15px;
+}
+
+.prev_ep_titre_span {
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  color: #ce4153;
+}
+
+.prev_ep_Season {
+  font-weight: 600;
+  letter-spacing: 0.05em;
+}
+.prev_ep_Season_rep {
+  letter-spacing: 0.05em;
+  color: grey;
+  margin-left: 15px;
+}

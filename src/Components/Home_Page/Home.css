@@ -1,0 +1,22 @@
+.Home_Background {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.Photo_Recherche {
+  display: flex;
+}
+
+.Home_body {
+  display: flex;
+  flex-direction: column;
+  min-height: 526px;
+  height: auto;
+}
+
+.Search_Bar {
+  width: 500px;
+}

@@ -1,0 +1,18 @@
+/*****Overides ****/
+.MuiAppBar-colorPrimary {
+  background-color: #ce4153 !important ;
+}
+
+.makeStyles-title-1 {
+  display: flex;
+  justify-content: center;
+}
+
+.MuiSvgIcon-fontSizeLarge {
+  fill: white !important;
+}
+
+.MuiTypography-h6 {
+  letter-spacing: 0.1em !important;
+  margin-left: 474px !important;
+}

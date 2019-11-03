@@ -1,0 +1,30 @@
+.Footer_Span {
+  color: silver;
+  font-size: 12px;
+}
+
+.Footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  background-color: #ce4153;
+}
+
+.Footer_Up {
+  display: flex;
+  justify-content: space-around;
+}
+
+/* .Footer_Up_Left {
+  background-color: yellow;
+  height: 200px;
+  width: 50px;
+}
+
+.Footer_Up_Right {
+  background-color: green;
+  height: 200px;
+  width: 50px;
+}
+ */
